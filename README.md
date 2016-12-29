@@ -11,6 +11,15 @@ Below Data Structures are implemented :
 
 2. Queue
 
+3. Deque
+
+
+Below Alogirthms are implemented :
+
+1. Linear Search
+
+2. Binary Search
+
 Feel free to contact me for anything.
 
 Thanks,
